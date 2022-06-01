@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+body{
+    
+    background-color: #190C27;
+    height: 100vh;
+    width: 100%;
+    padding-left: 5px;
+    
+}
+
+main{text-align: centerb ;}
+
+footer{
+    background-color: rgb(0, 0, 0);
+    height: 70px;
+    width: 100%;
+    text-align: center;    
+}
+
+footer i{
+
+    margin-block-end: 100%;
+    font-size: 30px;
+    color: #fef6df;
+    margin-right: 5px;
+}
+

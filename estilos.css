@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.fondo-nav{
+    background-color:black
+    
+}
+
+body{
+    background-color: #190c27;
+}
+
+.jumbotron{
+    background-image: url(images/cel.png);
+    background-size: cover;
+    background-position: center;
+    color: #fef6df;
+    border-radius: 0%;
+    height: 130px;
+    
+}
+
+main{
+    background-color: #190c27;
+    size: 30%;
+
+}
+
+footer{
+    background-color: rgb(0, 0, 0);
+    font-size: 20%;   
+}
+
